@@ -4,7 +4,7 @@ module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'rajeshg',
     environment: environment,
-    baseURL: '/',
+    baseURL: '/web',
     locationType: 'auto',
     EmberENV: {
       FEATURES: {

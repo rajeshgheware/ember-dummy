@@ -1,0 +1,14 @@
+{
+  "groupId": "info.rajesh",
+  "artifactId": "{{name}}",
+  "fileName": "{{name}}",
+  "type": "jar",
+  "fileEncoding": "utf-8",
+  "repositories": [
+    {
+      "id": "central",
+      "url": "file:/home/deepti/.m2/repository",
+      "snapshot": false
+    }
+  ]
+}
